@@ -2,7 +2,7 @@
 
 Simple 3D-printable bottom case for Arduino Uno R3.
 
-**[View in 3D →](https://makerconvert.com/stl-viewer#src=LIM_INN_DIN_LENKE)**
+**[View in 3D →](https://makerconvert.com/stl-viewer#src=https%3A%2F%2Fgithub.com%2Fjorgeneng%2Farduino-uno-case%2Fblob%2Fmain%2Farduino-uno-r3-case.stl)**
 
 - Fits the official Uno R3 board (68.6 × 53.4 mm)
 - Open slots for USB-B and DC jack
